@@ -116,7 +116,7 @@ Computer Science Engineering Student | AI • Data Science • Full Stack
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="www.linkedin.com/in/rakhi-bhowmik-28761237b">
+<a href="https://www.linkedin.com/in/rakhi-bhowmik-28761237b" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
